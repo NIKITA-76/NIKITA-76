@@ -63,17 +63,16 @@
 
 <br/>  
 
-**In addition to the technologies described above, I also own:**
-
+**In addition to the technologies described above, I also own:**  
   
 
-- PyQt5  
+- [PyQt5](https://doc.qt.io/qtforpython/)  
   
 
-- Kyvy/KyvyMD  
+- [Kyvy/KyvyMD](https://kivy.org/)  
   
 
-- TelegramBotAPI  
+- [TelegramBotAPI ](python-telegram-bot.org)  
   
 
 
