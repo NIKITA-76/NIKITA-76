@@ -60,10 +60,21 @@
 </div>
 
 
-## Connect with me  
-  
 
 <br/>  
+
+**In addition to the technologies described above, I also own:**
+
+  
+
+- PyQt5  
+  
+
+- Kyvy/KyvyMD  
+  
+
+- TelegramBotAPI  
+  
 
 
 ## Github Stats  
