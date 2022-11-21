@@ -1,9 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/NIKITA-76/NIKITA-76/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
