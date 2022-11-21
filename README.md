@@ -1,5 +1,7 @@
 
+<img src="https://raw.githubusercontent.com/NIKITA-76/NIKITA-76/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
