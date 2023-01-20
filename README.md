@@ -34,21 +34,16 @@
 
 
 
- 
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=NIKITA-76" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=NIKITA-76" height="150" alt="languages graph"  />
-</div>
-
-
-<br/>  
-
-
-
-
+## Github Stats 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=NIKITA-76&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NIKITA-76&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKITA-76&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
+  
+  
+  
+  
+
