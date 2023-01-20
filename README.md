@@ -39,7 +39,7 @@
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NIKITA-76&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKITA-76&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NIKITA-76&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
   
