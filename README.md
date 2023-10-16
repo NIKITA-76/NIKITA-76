@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Nikita, a Python junior developer </div>  
+### <div align="center">I'm Nikita, a junior IT-engineer </div>  
   
 
 <br/>  
